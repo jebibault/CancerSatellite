@@ -1,0 +1,26 @@
+========================================================================
+ Phoenix, Arizona Census Tracts (2010)
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96425-phoenix-arizona-census-tracts-2010/
+========================================================================
+From: City of Phoenix, Arizona
+
+Description:
+  © NSD/IT
+
+Projection: NAD83(HARN) / Arizona Central (ft)
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 07 Sep 2018
+- updated with new data on 04 Oct 2018
+- converted by Koordinates to Shapefile on 28 Sep 2019 (reference #1717514)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
