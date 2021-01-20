@@ -8,4 +8,4 @@ We used deep learning to analyze satellite imagery in order to predict cancer pr
 This method explained up to 64.37% of the variation of cancer prevalence. 
 It could potentially be used to map cancer prevalence in entire regions for which these estimates are currently unavailable.
 
-Paper available here: https://www.mdpi.com/2072-6694/12/12/3844
+Paper published in Cancers: https://www.mdpi.com/2072-6694/12/12/3844
