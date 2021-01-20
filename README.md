@@ -9,3 +9,4 @@ This method explained up to 64.37% of the variation of cancer prevalence.
 It could potentially be used to map cancer prevalence in entire regions for which these estimates are currently unavailable.
 
 Paper published in Cancers: https://www.mdpi.com/2072-6694/12/12/3844
+------------------------------------------------------------------------------------------
